@@ -1,5 +1,4 @@
 {
-    "python-envs.defaultEnvManager": "ms-python.python:system",
     "chat.promptFilesRecommendations": {
         "speckit.analyze": true,
         "speckit.checklist": true,
@@ -17,3 +16,4 @@
         ".specify/scripts/powershell/": true
     }
 }
+
